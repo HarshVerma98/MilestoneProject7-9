@@ -27,3 +27,10 @@ You know how to prompt the user for text input, again because it was in tutorial
 You can display the user’s current word and score using the title property of your view controller.
 You should create a usedLetters array as well as a wrongAnswers integer.
 When the player wins or loses, use UIAlertController to show an alert with a message.
+
+
+![Screenshot 2021-08-11 at 8 47 06 PM](https://user-images.githubusercontent.com/49474526/129057224-bd333f7d-2e6e-44c6-b7db-cf3fd9002942.png)
+![Screenshot 2021-08-11 at 8 47 32 PM](https://user-images.githubusercontent.com/49474526/129057227-4e3dacb9-e07a-47a2-a02c-1ad9d54adc6c.png)
+![Screenshot 2021-08-11 at 8 47 43 PM](https://user-images.githubusercontent.com/49474526/129057230-c6fa950e-b3e4-4182-ba83-3a6276a835a4.png)
+![Screenshot 2021-08-11 at 8 47 54 PM](https://user-images.githubusercontent.com/49474526/129057234-375f765d-9c07-4c02-a1e0-3ec27df3a38b.png)
+![Screenshot 2021-08-11 at 8 48 53 PM](https://user-images.githubusercontent.com/49474526/129057237-beafd775-4467-4da9-85b3-c8f5cc012565.png)

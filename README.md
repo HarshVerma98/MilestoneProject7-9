@@ -29,6 +29,9 @@ You should create a usedLetters array as well as a wrongAnswers integer.
 When the player wins or loses, use UIAlertController to show an alert with a message.
 
 
+This project is based on Paul Hudson (Twitter @twostraws) Hacking with Swift MilestoneProject 7-9. It contains my solutions to his challenges during Day 41 of the 100 Days of Swift initiative (https://www.hackingwithswift.com/100/41).
+
+
 ![Screenshot 2021-08-11 at 8 47 06 PM](https://user-images.githubusercontent.com/49474526/129057224-bd333f7d-2e6e-44c6-b7db-cf3fd9002942.png)
 ![Screenshot 2021-08-11 at 8 47 32 PM](https://user-images.githubusercontent.com/49474526/129057227-4e3dacb9-e07a-47a2-a02c-1ad9d54adc6c.png)
 ![Screenshot 2021-08-11 at 8 47 43 PM](https://user-images.githubusercontent.com/49474526/129057230-c6fa950e-b3e4-4182-ba83-3a6276a835a4.png)
